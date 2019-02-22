@@ -1,0 +1,102 @@
+.top {
+	background-image:url(img/khalidocean.jpg);
+	height:75vh;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+.khalid{
+	color:#EC4E34;
+	font-size:90px;
+	text-align:left;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Coiny', cursive;
+}
+.about-title{
+	text-align: center;
+	color:#EC4E34;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Coiny', cursive;
+	font-size:40px;
+}
+body{
+	background-color:#BEDAE5;
+}
+.about{
+	text-align:center;
+}
+.suncity{
+	width: 300px;
+	border: 8px solid white;
+}
+.americanteen{
+	width:300px;
+}
+.americanteen, .suncity{
+	margin-left: 110px;
+}
+.tourdates{
+	text-align: center;
+	color:#EC4E34;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Coiny', cursive;
+	font-size:40px;
+}
+.tourimg{
+	background-image: url(img/img.jpg);
+	height:75vh;
+	background-repeat:no-repeat;
+	background-size: cover;
+	border: 1px solid black;
+}
+.tourimg h1 {
+	border-bottom: 1px solid black;
+}
+.location{
+	color:#EC4E34;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Coiny', cursive;
+}
+.dates{
+	color:#EC4E34;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Coiny', cursive;
+}
+.tour-location {
+	border-right: 1px solid black;
+}
+.chart{
+	color:#EC4E34;
+	text-align:center;
+	font-size:20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight:bold;
+
+}
+.sun{
+	color:black;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:25px;
+}
+.AT{
+	color:black;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:25px;
+}
+.AT, .sun{
+	padding: 20px 0;
+}
+.about-p{
+	color:black;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:25px;
+	padding: 10px 0 40px 0;
+}
+.social{
+	padding:100px;
+	text-align:center;
+
+}
+.social .twitter{
+	border-radius: 230px;
+	width: 20%;
+}
